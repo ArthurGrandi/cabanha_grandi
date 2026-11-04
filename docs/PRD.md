@@ -1,14 +1,14 @@
-# PRD — Cabanha Grandi | Landing Page V1.0
+# PRD — Cabanha Grandi | Landing Page V1.1
 
 > **Status:** Especificação inicial para prototipação e desenvolvimento  
-> **Versão:** 1.0 | **Data:** 03/11/2026  
+> **Versão:** 1.1 | **Data:** 03/11/2026  
 > **Projeto:** Cabanha Grandi Dorper — Nova Prata/RS *(localidade apresentada na identidade visual; confirmar)*  
 > **Repositório:** https://github.com/ArthurGrandi/cabanha_grandi  
-> **Ferramentas:** Figma (design e protótipo), Codex (implementação), GitHub (versionamento)
+> **Ferramentas:** Codex (geração de protótipo e implementação), Figma via MCP remoto (design editável), GitHub (versionamento)
 
 ## 1. Resumo executivo
 
-A Cabanha Grandi é um empreendimento familiar em planejamento/estruturação, voltado à **criação e comercialização de ovinos**, com a raça **Dorper** como referência da identidade visual enviada. A destinação comercial dos animais pode variar conforme o comprador (outros criadores, frigoríficos, compradores finais etc.); **o site não deve pressupor um modelo exclusivo de venda**.
+A Cabanha Grandi é um empreendimento familiar em planejamento/estruturação, idealizado por **Ênio Grandi e seu filho Anderson Grandi**, voltado à **criação e comercialização de ovinos**, com a raça **Dorper** como referência da identidade visual enviada. Sua narrativa conecta as raízes da família Grandi, de origem italiana em **Torricella del Pizzo**, à história familiar em **Nova Prata/RS**. A destinação comercial dos animais pode variar conforme o comprador (outros criadores, frigoríficos, compradores finais etc.); **o site não deve pressupor um modelo exclusivo de venda**.
 
 A **V1 será uma única landing page institucional e comercial**, com apresentação da marca, da família, da propriedade, da criação, uma seleção enxuta de animais/lotes em destaque e meios de contato. O principal caminho de conversão é o **WhatsApp**. A negociação, a disponibilidade definitiva, a logística e a documentação serão tratadas fora do site.
 
@@ -32,7 +32,7 @@ A **V1 será uma única landing page institucional e comercial**, com apresenta�
 ### 3.2 Objetivos específicos
 
 1. Estabelecer credibilidade e identidade de marca.
-2. Contar a história da família e mostrar a propriedade.
+2. Contar a história da família Grandi (raízes italianas, gerações em Nova Prata e iniciativa de Ênio e Anderson) e mostrar a propriedade.
 3. Apresentar a criação de ovinos Dorper sem prometer resultados ou certificações não comprovados.
 4. Exibir inicialmente **3 a 6 cards de animais ou lotes**, quando existirem dados reais.
 5. Permitir contato rápido via WhatsApp, inclusive com contexto do animal/lote de interesse.
@@ -106,7 +106,7 @@ Não prometer disponibilidade de serviços não confirmados pela família.
 
 - Foto real da propriedade ou dos ovinos, com enquadramento que permita leitura do texto.
 - Marca e identificação geográfica "Nova Prata · RS" após confirmação.
-- Título provisório: **"Tradição que produz futuro."** *(slogan visto no material de referência; aprovação pendente)*.
+- Título provisório: **"Tradição que produz futuro."** *(slogan visto no material de referência; aprovação pendente)*. Alternativa narrativa: **"Nossas raízes, nosso legado, nosso futuro."** *(proposta; não aprovado)*.
 - Subtítulo objetivo sobre criação e comercialização de ovinos.
 - CTA primário: **"Conheça nossos animais"** → #animais.
 - CTA secundário opcional: **"Nossa história"** → #historia.
@@ -114,9 +114,42 @@ Não prometer disponibilidade de serviços não confirmados pela família.
 
 ### 6.3 Nossa história
 
-- Texto real fornecido pela família (origem, motivação, valores, pessoas envolvidas).
-- Uma foto de família ou da rotina no campo, se autorizada.
-- Linguagem humana e institucional; **não inventar fundação, tradição centenária ou pessoas**.
+**Objetivo:** criar vínculo emocional e estabelecer o legado familiar como diferencial de marca, sem inventar tradição prévia na ovinocultura.
+
+#### Fatos narrados pela família (base para conteúdo; revisar nomes e detalhes antes de publicar)
+
+- Raízes familiares em **Torricella del Pizzo, Lombardia, Itália**; antepassados imigraram ao Brasil em busca de terras, oportunidades e uma nova vida.
+- A história da família passou a se desenvolver em **Nova Prata/RS**.
+- **Ênio Grandi** cresceu em uma família numerosa: segundo o relato, teve **11 irmãos**; essa referência pode inspirar o conceito de “família grande”, mas não precisa aparecer no texto público.
+- O filho de Ênio, **Anderson Grandi**, representa a continuidade de uma história familiar ligada ao empreendedorismo.
+- Há conhecimento profissional na família relacionado à medicina veterinária: uma tia do proponente é formada pela **UFRGS**, segundo o relato. **Não associar automaticamente essa profissional à responsabilidade técnica ou ao manejo da cabanha.**
+- **Ênio Grandi e Anderson Grandi** tomaram a iniciativa de começar a criação de ovinos Dorper.
+- Há descendentes de outras gerações (incluindo os filhos de Anderson e o primo Francisco), mas **não publicar dados ou fotos individuais sem autorização**.
+- Data exata da fundação, propriedade da terra, experiências de criação anteriores e participação operacional de cada familiar **a confirmar**.
+
+#### Texto institucional proposto — versão principal (requer aprovação familiar)
+
+> **Nossa história**
+>
+> A história da Cabanha Grandi começa muito antes dos primeiros animais da nossa criação.
+>
+> Nossas raízes remontam a Torricella del Pizzo, na Itália. De lá, nossos antepassados partiram em busca de oportunidades, terras e da possibilidade de construir uma nova vida no Brasil. Foi em Nova Prata, no Rio Grande do Sul, que a família Grandi encontrou um lugar para criar raízes e construir sua trajetória ao longo das gerações.
+>
+> O trabalho, a união e o espírito empreendedor atravessaram essa história. E foi da vontade de dar continuidade a esse legado que nasceu a Cabanha Grandi: uma iniciativa de **Ênio Grandi e de seu filho, Anderson Grandi**, dedicada à criação de ovinos da raça Dorper.
+>
+> Hoje, a cabanha representa um novo capítulo da nossa família — um projeto que valoriza suas origens enquanto constrói, com dedicação e responsabilidade, o seu futuro no campo.
+
+**Microtexto opcional de destaque:** “Das raízes italianas ao campo gaúcho. Uma história de família que segue crescendo.”
+
+**Assinatura proposta (não aprovada):** “Cabanha Grandi — Nossas raízes, nosso legado, nosso futuro.”
+
+#### Direção de conteúdo e layout
+
+- Foto atual de Ênio e Anderson (se houver e se autorizada), acompanhada de registros da propriedade.
+- Opcional: foto histórica familiar e pequeno eixo cronológico **sem datas inventadas**: “Origens italianas → Nova Prata → Ênio e Anderson → Cabanha Grandi”.
+- Um título de caráter afetivo; evitar transformar a seção em genealogia extensa.
+- Conteúdo disponível para desktop e mobile, com boa leitura e linguagem acolhedora.
+- Usar apenas fotografias originais e autorizadas; não simular retratos históricos reais com IA.
 
 ### 6.4 Nossa propriedade
 
@@ -346,12 +379,23 @@ Centralizar informações mutáveis (WhatsApp, Instagram, endereço geral, texto
 
 ### 10.4 Figma ↔ Codex
 
-1. Criar frames **desktop (1440px)** e **mobile (390px)**; opcional tablet (768px).
-2. Definir cores, tipos, espaçamentos, botões, cards e estados em componentes/variantes.
-3. Prototipar navegação por âncoras e comportamento móvel.
-4. Registrar link do arquivo Figma e qual frame é a fonte de verdade.
-5. Configurar MCP do Figma no ambiente Codex se disponível e autenticado; revisar manualmente o código gerado, sem supor sincronização bidirecional completa.
-6. Comparar implementação e Figma em desktop/mobile antes de aprovar entrega.
+**Decisão de fluxo:** o Codex será usado também para **criar e editar designs nativos diretamente no Figma via MCP remoto**, e não apenas para consumir telas prontas. O trabalho de design será revisado e refinado por pessoas no Figma antes do desenvolvimento.
+
+1. No aplicativo do Codex, instalar o plugin do Figma em **Plugins → Figma → Install Figma**, autorizando o acesso.
+2. Usar o **servidor MCP remoto** (`https://mcp.figma.com/mcp`) e as skills de design disponíveis; o servidor desktop não oferece escrita no canvas.
+3. Criar/selecionar um arquivo Figma Design e fornecer ao Codex seu URL, o PRD do repositório e os materiais de identidade visual.
+4. Pedir ao Codex que use as ferramentas de escrita do Figma, incluindo **`use_figma`**, para produzir **frames desktop (1440px) e mobile (390px)**, com variantes de componentes e Auto Layout; opcional tablet (768px).
+5. Definir na criação: variáveis/tokens de cor, tipografia, escala de espaçamento, botões, cartões, badges de status e estrutura por seções. Todos os elementos devem ser **editáveis**, evitando entregar somente uma imagem rasterizada do layout.
+6. Revisar o protótipo, a hierarquia editorial e os estados dos cards no Figma; registrar link e frames aprovados como fonte de verdade.
+7. Usar o Codex para implementar no repositório os componentes e interações aprovados.
+8. Comparar a página construída com os frames do Figma em desktop e mobile, corrigindo divergências antes do deploy.
+
+**Requisitos e limites do MCP:** segundo a documentação oficial da Figma (consultada em 03/11/2026), a escrita no canvas está em beta, exige plano elegível e permissão de edição; escrever fora dos rascunhos exige Full seat. O servidor remoto oferece escrita, enquanto o desktop é limitado nesse ponto. Resultado gerado pelo agente pode exigir revisão/limpeza manual. Não presumir que o acesso MCP já esteja configurado no Codex.
+
+**Fontes oficiais:**
+- https://help.figma.com/hc/en-us/articles/39888629089175-Codex-and-Figma-Set-up-the-MCP-server
+- https://developers.figma.com/docs/figma-mcp-server/write-to-canvas/
+- https://developers.figma.com/docs/figma-mcp-server/tools-and-prompts/
 
 ## 11. Histórias de usuário
 
@@ -382,7 +426,7 @@ Centralizar informações mutáveis (WhatsApp, Instagram, endereço geral, texto
 | Etapa | Entregável | Saída esperada |
 |---|---|---|
 | E0 — Definição | PRD aprovado + checklist de conteúdo | Escopo congelado para V1 |
-| E1 — Design | Figma desktop/mobile e componentes | Protótipo validado pela família |
+| E1 — Design | Codex criando/editando frames e componentes diretamente no Figma via MCP remoto | Protótipo nativo e editável validado pela família |
 | E2 — Base | Setup Vite/React/TS/Tailwind + layout e tokens | Site executando localmente |
 | E3 — Conteúdo | Seções, galeria e catálogo estático | Jornada principal completa |
 | E4 — Conversão | WhatsApp, estados dos cards, links | Contatos funcionando |
@@ -398,13 +442,13 @@ Cada etapa pode ser registrada em commits/PRs menores no GitHub. Não confundir 
 | Marca | Escolher identidade final (oliva ou vermelha) e disponibilizar logo isolado em SVG/PNG transparente | Design |
 | Nome e slogan | Confirmar apresentação oficial "Cabanha Grandi Dorper" e autorização do slogan | Conteúdo |
 | Local | Confirmar Nova Prata/RS e nível de detalhe do endereço | Hero/contato |
-| História | Texto e fotos reais da família, com autorização | Institucional |
+| História | **Fatos principais já levantados:** origens em Torricella del Pizzo, família em Nova Prata e iniciativa de Ênio e Anderson. **Pendente:** aprovação do texto, dados genealógicos/datas e fotos autorizadas | Institucional |
 | Propriedade | Fotos originais e informações reais de infraestrutura/manejo | Galeria/criação |
 | Animais | 3–6 animais/lotes, identificações, categorias, fotos, status e dados aprovados | Catálogo |
 | Comercial | Confirmar se há preços públicos, política de contato e quais status ficam visíveis | Cards |
 | Contatos | Número oficial de WhatsApp, Instagram correto e e-mail opcional | Conversão |
 | Domínio | Confirmar titularidade e DNS do domínio desejado | Publicação |
-| Figma | Link do arquivo e aprovação do protótipo | Handoff |
+| Figma | Instalar plugin/MCP remoto no Codex, confirmar permissões, obter link do arquivo e aprovar frames editáveis | Design e handoff |
 | Hospedagem | Definir provedor e responsável pelo deploy | Publicação |
 
 **A V1 pode ser prototipada com conteúdo de demonstração devidamente sinalizado, mas não deve ser publicada como comercialmente ativa sem validar esses pontos.**
@@ -424,4 +468,6 @@ A versão 1 será considerada concluída quando qualquer visitante conseguir **c
 
 ---
 
-**Nota de governança:** este PRD contém definições já acordadas na conversa e propostas técnicas/de design ainda sujeitas a validação. Alterações de escopo após aprovação devem ser registradas em nova revisão do documento.
+**Nota de governança:** este PRD contém definições já acordadas na conversa e propostas técnicas/de design ainda sujeitas a validação. A seção da história é um rascunho editorial, não uma biografia aprovada. Alterações de escopo após aprovação devem ser registradas em nova revisão do documento.
+
+**Histórico:** v1.1 — inclusão do legado familiar e de Ênio/Anderson como idealizadores; atualização do fluxo de criação nativa de designs no Figma pelo Codex via MCP remoto.
