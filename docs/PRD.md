@@ -1,7 +1,7 @@
-# PRD — Cabanha Grandi | Landing Page V1.1
+# PRD — Cabanha Grandi | Landing Page V1.2
 
 > **Status:** Especificação inicial para prototipação e desenvolvimento  
-> **Versão:** 1.1 | **Data:** 03/11/2026  
+> **Versão:** 1.2 | **Data:** 03/11/2026  
 > **Projeto:** Cabanha Grandi Dorper — Nova Prata/RS *(localidade apresentada na identidade visual; confirmar)*  
 > **Repositório:** https://github.com/ArthurGrandi/cabanha_grandi  
 > **Ferramentas:** Codex (geração de protótipo e implementação), Figma via MCP remoto (design editável), GitHub (versionamento)
@@ -183,6 +183,29 @@ Não prometer disponibilidade de serviços não confirmados pela família.
 - Rodapé com marca, links âncora e ano corrente.
 - O domínio exibido nas peças de identidade visual e o @ de Instagram são **referências não verificadas**; não publicar como links oficiais sem confirmação.
 
+### 6.8 Seções editoriais complementares na V1 do protótipo
+
+Além das áreas obrigatórias definidas acima, o protótipo detalhado incorpora **conteúdo institucional adicional sem criar novas páginas ou backend**:
+
+- **Faixa de contexto:** Torricella del Pizzo / Nova Prata / atividade da cabanha (somente fatos confirmados).
+- **Linha de legado:** Itália → imigração → Nova Prata → iniciativa de Ênio e Anderson, **sem datas inventadas**.
+- **Compromissos:** história verdadeira, informação clara sobre os animais e negociação direta; comunicação de intenção, não certificações.
+- **Família e pessoas:** fotografia real de Juliana e menção cautelosa à formação veterinária presente na família, **sem atribuir responsabilidade técnica formal**.
+- **Como funciona:** visitante conhece o plantel, conversa pelo WhatsApp e confirma condições fora do site.
+- **Perguntas frequentes:** disponibilidade, cidade, consulta de valores e possibilidade de agendar visita, sempre sujeitas à confirmação da família.
+
+A arquitetura continua **single-page**. As seções podem ser condensadas ou reorganizadas conforme validação visual; conteúdos fictícios permanecem explicitamente identificados como *demonstração*.
+
+#### Figma de referência para a V1
+
+- Arquivo: https://www.figma.com/design/PUt3WM30dQ1WASbWOJ6Nbw
+- **Frame principal desktop:** `10:2` — 1440px, identidade vermelha/branca.
+- **Frame principal mobile:** `11:2` — 390px, identidade vermelha/branca.
+- Explorações anteriores verde-oliva foram **ocultadas/arquivadas**, não são a versão principal.
+- Frames e textos são nativos/editáveis; ainda não é protótipo final aprovado.
+- Fotos familiares enviadas no chat **ainda não foram importadas** ao Figma. As áreas correspondentes estão claramente marcadas.
+- O catálogo contém cards demonstrativos, **não animais reais à venda**.
+
 ## 7. Requisitos funcionais
 
 | ID | Requisito | Prioridade | Critério de aceite |
@@ -273,26 +296,32 @@ O material compartilhado inclui:
 
 **Importante:** os painéis são **referências de identidade**, não arquivos finais de logotipo nem prova de que instalações, pessoas ou animais retratados pertencem à propriedade.
 
-### 9.2 Direção proposta (aguarda validação)
+### 9.2 Direção visual principal — vermelho e branco (decisão do cliente)
 
-Adotar um visual **premium rural, sóbrio e familiar**, inspirado inicialmente no painel verde-oliva:
+**Decisão de marca (03/11/2026):** adotar a identidade **vermelha e branca** enviada na segunda referência visual como a direção principal da Cabanha Grandi. **Não utilizar verde-oliva/bege como base do site.** O design anterior com essas cores permanece somente como exploração arquivada no Figma.
 
-| Token sugerido | Cor aproximada | Uso |
+A composição deve trazer vermelho forte, vinho para seções de destaque, branco como base dominante e neutros discretos para leitura. Não misturar a paleta verde à identidade principal.
+
+| Token | HEX de trabalho | Aplicação |
 |---|---|---|
-| primary | #303626 | Header, títulos fortes, CTAs principais |
-| background | #F4F0E8 | Fundo claro e seções alternadas |
-| surface | #FFFFFF | Cards |
-| accent | #A27A50 | Detalhes, divisórias e ícones |
-| muted | #C2BCB2 | Bordas e superfícies neutras |
-| text | #24271E | Texto principal |
+| primary | #A11724 | Marca, CTAs, bordas e títulos de destaque |
+| primaryDark | #770D17 | Hero, bloco de contato e contraste |
+| paper | #FFFFFF | Base principal e cartões |
+| surface | #FFF9F8 | Superfícies muito claras alternadas |
+| soft | #F6ECEA | Áreas secundárias e placeholders |
+| line | #E7D0CF | Divisórias e bordas suaves |
+| ink | #281B1D | Texto principal |
+| muted | #745B60 | Descrições e textos complementares |
+| accent | #C69B76 | Pequenos detalhes pontuais |
 
-**Paleta não aprovada.** Se a família escolher a identidade vermelha, adaptar todos os tokens de forma consistente, sem misturar estilos indiscriminadamente.
+A **família aprovou a direção vermelho + branco**, não necessariamente esses valores hex exatos. Mantê-los como variáveis no Figma para refinamento.
 
-- **Tipografia sugerida:** serifada elegante para títulos (ex.: Libre Baskerville) e sans-serif legível para corpo (ex.: Inter), sujeita a teste.
-- **Fotografia:** protagonistas reais do campo, composição ampla no hero e detalhes nos cards.
-- **Cards:** bordas arredondadas discretas, sombra mínima, badge textual de status e botão claro.
-- **Layout:** respiro generoso, seções com largura máxima, espaços consistentes, boas áreas de clique.
-- **Interações:** âncoras suaves respeitando preferência por movimento reduzido; hover/focus claros, sem animações pesadas.
+- **Tipografia do protótipo:** Libre Baskerville nos títulos editoriais; Inter em textos de apoio, menu e botões.
+- **Logo:** substituir a assinatura textual/monograma temporário pelo logotipo vermelho oficial em formato original quando fornecido.
+- **Fotografias:** foco em material real da família e, quando houver, da propriedade e animais; não apresentar referência visual da raça como animal comercial real.
+- **Cards:** fundo branco, contorno rosa-claro, etiqueta textual de status e CTA em vermelho.
+- **Layout:** editorial, contemporâneo, bem espaçado, com detalhes discretos associados à história italiana e à identidade gaúcha.
+- **Acessibilidade:** contraste e tamanho legível no desktop e mobile, sem depender somente da cor para informar status.
 
 ### 9.3 Uso de IA em fotografias
 
